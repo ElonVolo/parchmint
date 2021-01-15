@@ -1,0 +1,6 @@
+
+class PMDefineMacro {
+
+}
+
+export { PMDefineMacro };

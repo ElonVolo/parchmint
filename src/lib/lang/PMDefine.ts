@@ -1,0 +1,6 @@
+
+class PMDefine {
+
+}
+
+export { PMDefine };

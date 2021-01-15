@@ -1,0 +1,6 @@
+
+class PMCond {
+
+}
+
+export { PMCond };

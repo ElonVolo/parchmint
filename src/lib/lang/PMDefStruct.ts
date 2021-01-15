@@ -1,0 +1,6 @@
+
+class PMDefStruct {
+
+}
+
+export { PMDefStruct };

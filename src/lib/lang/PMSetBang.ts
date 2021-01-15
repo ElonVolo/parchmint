@@ -1,0 +1,6 @@
+
+class PMSetBang {
+
+}
+
+export { PMSetBang };

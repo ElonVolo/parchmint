@@ -1,0 +1,6 @@
+
+class PMAnd {
+
+}
+
+export { PMAnd };

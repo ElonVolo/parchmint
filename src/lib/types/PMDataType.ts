@@ -1,0 +1,6 @@
+
+class PMDataType {
+
+}
+
+export { PMDataType };
